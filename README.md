@@ -14,6 +14,7 @@ Todo if you need to change the logo after downloading the file:
 5. save and open terminal you're using to open fastfetch
 
 if the picture you use is too big, change the logo height below the "source" line
+
 --------------------------------------------------------------------------
 how to use the conky
 
