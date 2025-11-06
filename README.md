@@ -11,6 +11,13 @@ and for starter, check "show hidden files" on the file manager settings
 
 --------------------------------------------------------------------------
 
+In the screenshot, the wallpaper i'm using is a mix from Unsplash and Pixiv Art. so big thanks to:
+- Photo by <a href="https://unsplash.com/@jannis_lucas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jannis Lucas</a> on <a href="https://unsplash.com/photos/gray-steel-stairway-and-white-door-lzO1h8-Lf5s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- The pixiv art is from <a href="https://www.pixiv.net/en/artworks/89025619">GodGameSC2</a>
+if anything, you can create it yourself and use it for personal.
+
+--------------------------------------------------------------------------
+
 All listed widgets in the screenshot:
 
 - Upper panel:
