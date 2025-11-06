@@ -1,4 +1,4 @@
-# Robella_KDE_Theme_V1
+# Robella_KDE_Rice_V1
 
 ![Screenshot_20251106_220510](https://github.com/user-attachments/assets/6dd1393f-236f-47bf-bfea-af31f8b8826e)
 
@@ -21,9 +21,9 @@ if anything, you can create it yourself and use it for personal.
 All listed widgets in the screenshot:
 
 - Upper panel:
-  - Shutdown or switch (Davide Sa), Desktop Indicator (Dhruvesh surolia), PlasMusic Toolbar (Claudio Catterina), System tray and Digital Clock (KDE)
+  - Shutdown or switch (Davide Sa), Desktop Indicator (Dhruvesh surolia), PlasMusic Toolbar (Claudio Catterina), System tray and Digital Clock
 - Down panel:
-  - Icons only Task Manager (KDE)
+  - Icons only Task Manager
 
 
 --------------------------------------------------------------------------
@@ -34,7 +34,7 @@ Where to put the files:
 - config.jsonc > /home/.config/fastfetch 
 --------------------------------------------------------------------------
 
-For the decorations,everything is using Breeze Dark with custom accent from my wallpaper. except the window decoration, search "Fluent-round" on KDE Store
+For the Styles, i'm only change the window decoration search "Fluent-round" on KDE Store. later on when i got free time, i'm might fully customize the KDE Themes with my own color accent
 
 --------------------------------------------------------------------------
 and here is conky configuration:
