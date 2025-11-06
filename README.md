@@ -1,8 +1,15 @@
 # Robella_KDE_Theme_V1
-yes, i have updated this github wih updated stuff and this is officially one of my fully customize theme. since this is V1. dont expect too much with hyprland, rofi ect.
+i have updated this github wih updated stuff and this is officially one of my fully customize theme. since this is V1. dont expect too much with hyprland, rofi ect.
+Here is the konsave file: https://limewire.com/d/3B8uF#Oxkv7wV7Hn 
+all below here is gui guides for todo the files.
+and check "show hidden files" on the file manager settings
 
-all here is gui guides (using dolphin for this todo)
-and check "show hidden files" on the settings
+--------------------------------------------------------------------------
+Where to put the files: 
+
+.bashrc > /home/
+sm > /home/.conky/simple media
+config.jsonc > /home/.config/fastfetch
 
 --------------------------------------------------------------------------
 Todo if you need to change the logo after downloading the file:
@@ -18,7 +25,7 @@ if the picture you use is too big, change the logo height below the "source" lin
 --------------------------------------------------------------------------
 how to use the conky
 
-1. go to conky directory (home/.conky) to create the new folder. name it "simple media"
+1. go to conky directory (/home/.conky) to create the new folder. name it "simple media"
 2. after downloading the file, put it inside the simple media folder
 3. open conky manager to enable the media by check the file
 4. if there some misfit because the resolution difference,open the sm file and change the gap_x and gap_y value to fit desktop screen. since mine is using 1080p screen
