@@ -1,8 +1,8 @@
-# Rice-2
-Second Rice
+# Robella_KDE_Theme_V1
+yes, i have updated this github wih updated stuff and this is officially one of my fully customize theme. since this is V1. dont expect too much with hyprland, rofi ect.
 
 all here is gui guides (using dolphin for this todo)
-and check show hidden files
+and check "show hidden files" on the settings
 
 --------------------------------------------------------------------------
 Todo if you need to change the logo after downloading the file:
